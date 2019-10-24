@@ -1,0 +1,15 @@
+﻿insert into author values(1,'Balagurusami');
+insert into author values(2,'M.T.Savaliya');
+insert into author values(3,'Pressman');
+insert into author values(4,'J.S.Chitode');
+insert into author values(5,'R.S.Rathore');
+insert into author values(6,'A.K Gautam');
+insert into author values(7,'Sanmukh Kaur');
+insert into author values(8,'Pradeep Kumar');
+insert into author values(9,'M.M.Goyal');
+insert into author values(10,'George J.Thaler');
+insert into author values(11,'Rajiv Kapadia');
+insert into author values(12,'R.D. Begamudre');
+insert into author values(13,'Thomas H. Cormen');
+insert into author values(14,'Harold Abelson');
+insert into author values(15,'Michael C. Feathers');
